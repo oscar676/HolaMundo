@@ -1,5 +1,5 @@
 package com.ipartek.formacion.holamundo.pojo;
-
+//cambio para probar github
 /**
  * Clase instanciable de tipo POJO o BEAN para representar a un
  * <code>Alumno</code> de un curso.
